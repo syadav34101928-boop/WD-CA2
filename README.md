@@ -28,7 +28,7 @@ A consistent navigation bar appears on all pages for easy movement across the we
 
 
 
-## 🧭 Navigation Bar Requirements
+Navigation Bar Requirements
 
 The navigation bar must be included on all pages and contain:
 
