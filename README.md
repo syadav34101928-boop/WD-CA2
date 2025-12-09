@@ -1,12 +1,10 @@
-# Student Portfolio Website – README
-
-## 📌 Project Overview
+ Project Overview
 
 This project is a *Multi‑Page Student Portfolio Website* designed using *HTML* and *Basic CSS*. It showcases a clean structure, proper navigation, organized layout techniques, and essential components of a personal portfolio. The website includes four separate pages, each serving a specific purpose.
 
 ---
 
-## 📁 Project Structure
+  Project Structure
 
 The website contains the following four HTML pages:
 
@@ -19,10 +17,7 @@ A consistent navigation bar appears on all pages for easy movement across the we
 
 ---
 
-## 🎯 Objectives
-
-This project demonstrates a foundational understanding of:
-
+ Objectives
 * Semantic HTML structure
 * CSS styling principles
 * Layout using *Float*
@@ -31,7 +26,7 @@ This project demonstrates a foundational understanding of:
 * Folder organization best practices
 * Hosting on GitHub
 
----
+
 
 ## 🧭 Navigation Bar Requirements
 
@@ -47,77 +42,32 @@ The navigation bar must be included on all pages and contain:
 
 ---
 
-## 👤 About Me Page (about.html)
+in  About  Page (about.html)
 
 This page highlights personal introduction details:
 
-* A short introduction (at least 4–5 lines)
-* A profile image
+* A short introduction
 
----
 
-## 🛠 Skills & Projects Page (skills.html)
+ Skills & Projects  (skills.html)
 
-This page displays competencies using neatly aligned cards:
-
-* Minimum *three skill/project cards*
-* Each card includes:
+ 
+* i creat 3 skills 
+* in each card 
 
   * Skill/Project Title
-  * 1–2 line description
+    
   * Background color
   * Border
-* Cards must be aligned using *Flexbox*
+* Cards must be aligned using *Flexb
+ Contact Page (contact.html)
 
----
-
-## ✉ Contact Page (contact.html)
-
-This page includes a fully functional and styled contact form containing:
+This page includes  
 
 * Name
 * Email
 * Subject
 * Message
-* Submit Button
+* Submit Button 
 
----
-
-## 📤 Submission Instructions
-
-Students must provide:
-
-### ✔ GitHub Repository (Mandatory)
-
-* Upload all project files to a GitHub repository.
-
-### ✔ PDF Report
-
-The PDF must include:
-
-* Student Name & Roll Number on the top
-* Code snippets
-* Output screenshots
-* Proper comments in every file
-
-### ✔ Google Form Submission
-
-Submit the provided form along with the *GitHub link*.
-
----
-
-## 📝 Notes
-
-* Ensure all pages are linked correctly.
-* Maintain clean, readable code with comments.
-* Follow the folder structure strictly for easy evaluation.
-
----
-
-## ✅ Final Output
-
-The final project should look like a fully functional personal portfolio with smooth navigation, structured content, and readable styling.
-
----
-
-If you want, I can also help you create a *GitHub-ready project description, **project screenshots, or **improve the README formatting* further!
+ 
